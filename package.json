@@ -24,12 +24,10 @@
     "Identity",
     "Authentication",
     "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
+    "cordova-android"
   ],
   "platforms": [
-    "android",
-    "ios"
+    "android"
   ],
   "dependencies": {
     "q": "*"
